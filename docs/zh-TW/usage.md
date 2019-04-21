@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: How To Use
 permalink: /zh-TW/usage/
